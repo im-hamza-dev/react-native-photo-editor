@@ -10,9 +10,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "expo-image-picker": "^8.1.0",
+    "buffer": "^5.4.3",
+    "expo-constants": "^9.0.0",
+    "gl-react": "^4.0.1",
+    "gl-react-native": "^4.0.1",
+    "native-base": "^2.13.12",
     "react": "16.11.0",
-    "react-native": "0.62.2"
+    "react-native": "0.62.2",
+    "react-native-gl-image-filters": "^0.1.1",
+    "react-native-image-crop-picker": "^0.30.0",
+    "react-native-unimodules": "^0.7.0"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
